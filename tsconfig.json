@@ -1,0 +1,15 @@
+{
+    "exclude": ["config"],
+    "compilerOptions": {
+      "baseUrl": ".",
+      "paths": { "*": ["types/*"] },
+      "target": "esnext",
+      "moduleResolution": "Node",
+      "isolatedModules": false,
+      "esModuleInterop": true,
+      "jsx": "preserve",
+      "module": "commonjs",
+      "traceResolution": false,
+      "declaration": true
+    }
+   }
