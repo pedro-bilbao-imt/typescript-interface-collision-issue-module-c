@@ -1,3 +1,3 @@
 export interface ExampleInterface {
-    exampleProperty: string;
+    exampleProperty2: number;
 };

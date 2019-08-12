@@ -1,7 +1,7 @@
 
 declare module "typescript-interface-collition-issue-module-c/index" {
     export interface ExampleInterface {
-        exampleProperty: string;
+        exampleProperty2: number;
     }
 }
 
